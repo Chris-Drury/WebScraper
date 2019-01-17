@@ -23,7 +23,7 @@ as well as the location of the installed webdriver and the number of images to s
 # Running the WebScraper
 Once the above is completed, running the webscraper should be as simple as typing:
 ```
-Python WebScraper.py
+python WebScraper.py
 ```
 
 # License
