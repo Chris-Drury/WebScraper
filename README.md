@@ -1,5 +1,5 @@
 # WebScraper
-A Python script built to scrape images and compile them into .pdfs
+A Python script built to scrape images from HTML and compile them into .pdfs
 
 # Getting Started
 There are 3 main steps to follow before the Webscraper can be run
