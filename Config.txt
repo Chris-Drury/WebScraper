@@ -1,0 +1,22 @@
+## Specifies the location of your webdriver
+# Chrome is recommended
+driver = 
+
+## Specifies the website to be scrapped
+targetUrl = 
+
+### Required Login Credentials for the given site
+username = 
+password = 
+
+### Image Scraping parameters
+## Specifies the number of images to scrape 
+images = 
+
+## Specifies the image index to start with
+# NOTE: this assumes image index, not image number. Example: image VII is image 7, image 2 is image 9 (since it is 2 images after VII)
+# To start from the first image, set to 0
+startImage = 
+
+## Location to store the captured images
+dlLocation = 
